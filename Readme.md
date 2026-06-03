@@ -398,16 +398,6 @@ This project teaches:
 Saylani Welfare International Trust (SMIT)  
 Karachi, Pakistan
 
-Teaching 50+ students in Machine Learning & NLP
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 🚀 Running on Google Colab
 
 ```python
